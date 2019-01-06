@@ -8,7 +8,7 @@
 -Simulated annealing
 ---------
 功能：实现模拟退火\
-使用：\
+使用：
 >>>>-posi.txt     存储要拜访的城市坐标(x,y)\
 >>>>-save1.txt    存储排序后的城市坐标(x,y)
 
@@ -19,7 +19,7 @@
 -Ant colony algorithm
 ---------
 功能：实现蚁群算法\
-使用：\
+使用：
 >>>>-posi.txt     存储要拜访的城市坐标(x,y)\
 >>>>-save.txt    存储排序后的城市坐标(x,y)
 
